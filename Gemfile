@@ -17,6 +17,8 @@ gem 'devise'
 # For devise updated view in bootstrap
 gem 'devise-bootstrap-views', '~> 1.0'
 
+# For fetching fake finance data
+gem 'iex-ruby-client'
 
 # Use sqlite3 as the database for Active Record
 #gem 'sqlite3', '~> 1.4'
