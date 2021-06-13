@@ -11,7 +11,12 @@ gem 'pg'
 group :development, :test do
     gem 'dotenv-rails'
 end
+# For Authentication
 gem 'devise'
+
+# For devise updated view in bootstrap
+gem 'devise-bootstrap-views', '~> 1.0'
+
 
 # Use sqlite3 as the database for Active Record
 #gem 'sqlite3', '~> 1.4'
