@@ -20,6 +20,11 @@ gem 'devise-bootstrap-views', '~> 1.0'
 # For fetching fake finance data
 gem 'iex-ruby-client'
 
+#For beautiful fonts
+gem "font-awesome-rails"
+
+
+
 # Use sqlite3 as the database for Active Record
 #gem 'sqlite3', '~> 1.4'
 # Use Puma as the app server
